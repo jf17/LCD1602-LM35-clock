@@ -45,9 +45,9 @@ dat=(125*val)>>8;// temperature calculation formula
     lcd.print(now.minute(), DEC);
     lcd.print(' ');
     lcd.print(now.day(), DEC);
-    lcd.print('/');
+    lcd.print('.');
     lcd.print(now.month(), DEC);
-    lcd.print('/');
+    lcd.print('.');
     lcd.print(now.year(), DEC);
 
   delay(10000); // поставил 10 сек т.к. сильно моргал дисплей 
