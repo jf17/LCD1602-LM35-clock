@@ -53,6 +53,7 @@ String zero(int num){
   else if(num ==7){return "07";}
   else if(num ==8){return "08";}
   else if(num ==9){return "09";}
+  else if(num ==0){return "00";}
   }
 
 void loop()
