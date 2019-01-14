@@ -1,3 +1,3 @@
-# LCD1602-LM35-clock
+# LCD1602-QM135-DHT22-clock
 
-![Screenshot](/screenshot.PNG?raw=true)
+![Screenshot](/screenshot.jpg?raw=true)
